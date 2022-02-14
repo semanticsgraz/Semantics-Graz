@@ -1,6 +1,6 @@
 ## Welcome to our blog. 
 
-This will show all the 
+This will show all the topics we are interested in and the activities we are involved in. 
 
 1.	About us (pictures of us, what we do, what we are interested in, maybe study field, etc.) 
 2.	Reading Group descriptions
