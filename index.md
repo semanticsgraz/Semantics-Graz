@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to our blog. 
 
-You can use the [editor on GitHub](https://github.com/semanticsgraz/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This will show all the 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.	About us (pictures of us, what we do, what we are interested in, maybe study field, etc.) 
+2.	Reading Group descriptions
+3.	Previous talks, publications
+4.	Work in progress, ideas, and squibs
+5.	Connected Projects 
+a.	Experiment advertising
+b.	Linglab
+c.	The Erotetic and the Aesthetic
+d.	Exhaustivity in Questions
+e.	…
+6.	Blog-News
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/semanticsgraz/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
