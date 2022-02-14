@@ -7,11 +7,10 @@ This will show all the topics we are interested in and the activities we are inv
 3.	Previous talks, publications
 4.	Work in progress, ideas, and squibs
 5.	Connected Projects 
-a.	Experiment advertising
-b.	Linglab
-c.	The Erotetic and the Aesthetic
-d.	Exhaustivity in Questions
-e.	…
+  a.	Experiment advertising
+  b.	Linglab
+  c.	The Erotetic and the Aesthetic
+  d.	Exhaustivity in Questions
 6.	Blog-News
 
 
