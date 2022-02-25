@@ -2,9 +2,9 @@
 
 This will show all the topics we are interested in and the activities we are involved in. 
 
-1.	[About us] (us.md) 
+1.	[About us](about_us.md) 
 2.	[Reading Group descriptions](reading_groups.md)
-3.	Previous talks, publications
+3.	[Previous talks](prev_talks.md)
 4.	Work in progress, ideas, and squibs
 5.	Connected Projects 
   a. Experiment advertising
