@@ -1,6 +1,6 @@
 layout: page
 title: "halloworld"
-permalink: /halloworld.md/
+permalink: /halloworld/
 
 
 hey world 
