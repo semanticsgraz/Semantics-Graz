@@ -5,7 +5,7 @@
 3.	[Previous talks](prev_talks.md)
 4.	Work in progress, ideas, and squibs
 5.	Connected Projects 
-  a. Experiment advertising
+  a. Running Experiments
   b. [linglab](https://linglab.uni-graz.at/en/)
   c. The Erotetic and the Aesthetic
   d. Exhaustivity in Questions
