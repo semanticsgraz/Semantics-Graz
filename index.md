@@ -13,5 +13,4 @@ This will show all the topics we are interested in and the activities we are inv
   d. Exhaustivity in Questions
 6.	Blog-News
 
-https://github.com/semanticsgraz/Semantics-Graz/blob/a677682d45ca33cbbb79edb0de3f26fd1fad7406/probe
 
