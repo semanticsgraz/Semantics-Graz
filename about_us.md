@@ -12,3 +12,10 @@ I am doing the Bachelor´s degree in teacher training in the subjects German, Ge
      alt="Markdown Monster icon"
      style="float: left; margin-right: 100px;" />
 I am a  doctoral candidate at the linguistics department at Uni Graz. Also, I work as research assistent at the Department for German Studies. aCurrently, I am working in the Project „the erotetic and the aesthetic“, where we want to find out more about suspense in texts. In February of 2021, I graduated from the teachers training program. In my master thesis, I looked at the semantics of the German discourse particles "überhaupt" and "gar". I am very interested in formal semantics and pragmatics as well as their interfaces with syntax.
+
+## Michaela Leeb
+
+<img src="/images/lea.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 100px;" />
+I am currently enrolled in the Bachelor's programme in Linguistics and German Studies and the Master's programme in Technical Physics, as I have finished the Bachelor's programme in Physics in 2021. At the Department of German Studies, I am working as a student assistant on a project that combines game theory and pragmatics. I am also engaged in another project that deals with variant grammar and the geographical evolution of language.
