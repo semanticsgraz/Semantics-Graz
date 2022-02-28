@@ -15,10 +15,8 @@ I am a  doctoral candidate at the linguistics department at Uni Graz. Also, I wo
 
 ## Michaela Leeb
 
-<img src="/images/pass bild.jpg"
+<img src="images/pass bild.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 100px;" />
-     
-<img src="assets/images/pass bild.jpg" alt="Image description">
      
 I am currently enrolled in the Bachelor's programme in Linguistics and German Studies and the Master's programme in Technical Physics, as I have finished the Bachelor's programme in Physics in 2021. At the Department of German Studies, I am working as a student assistant on a project that combines game theory and pragmatics. I am also engaged in another project that deals with variant grammar and the geographical evolution of language.
