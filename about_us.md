@@ -1,5 +1,6 @@
 ## Lea Fricke
-<img src="/images/lea.jpg"
+
+<img src="images/lea.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 100px;" />
 I am a research assistant at the German Department at the University of Graz. I am writing my dissertation on variation in wh-phrases in embedded questions in German.  From 2017 to 2021, I worked in the XPrag.de project “Exhaustiveness in embedded questions across languages”. Beside (embedded) questions my research interests include information structure, scalar implicatures and experimental methodology. I enjoy working experimentally and with corpora. Find out more about my research and other activities here add link https://homepage.uni-graz.at/de/lea.fricke/.
@@ -8,6 +9,7 @@ I am a research assistant at the German Department at the University of Graz. I 
 I am doing the Bachelor´s degree in teacher training in the subjects German, Geography an History at the University of Graz. Beside that I am currently working with AMR. I am also interested in FrameNet. I enjoy working with experiments or corpora. 
 
 ## Maya Cortez Espinoza
+
 <img src="images/mythirdpic.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 100px;" />
