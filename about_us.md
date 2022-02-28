@@ -8,7 +8,7 @@ I am a research assistant at the German Department at the University of Graz. I 
 I am doing the Bachelor´s degree in teacher training in the subjects German, Geography an History at the University of Graz. Beside that I am currently working with AMR. I am also interested in FrameNet. I enjoy working with experiments or corpora. 
 
 ## Maya Cortez Espinoza
-<img src="/images/mythirdpic.jpg"
+<img src="images/mythirdpic.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 100px;" />
 I am a  doctoral candidate at the linguistics department at Uni Graz. Also, I work as research assistent at the Department for German Studies. aCurrently, I am working in the Project „the erotetic and the aesthetic“, where we want to find out more about suspense in texts. In February of 2021, I graduated from the teachers training program. In my master thesis, I looked at the semantics of the German discourse particles "überhaupt" and "gar". I am very interested in formal semantics and pragmatics as well as their interfaces with syntax.
