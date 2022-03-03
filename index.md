@@ -4,9 +4,7 @@
 2.	[Reading Group descriptions](reading_groups.md)
 3.	[Previous talks](prev_talks.md)
 4.	Work in progress, ideas, and squibs
-5.	Connected Projects 
   a. Running Experiments
   b. [linglab](https://linglab.uni-graz.at/en/)
-  c. The Erotetic and the Aesthetic
-  d. Exhaustivity in Questions
-6.	[Blog-News](blog.md)
+6.  [Projects](projects.md)
+7.	[Blog-News](blog.md)
