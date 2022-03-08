@@ -1,4 +1,4 @@
-Todo: add melanies text, add experiment informations
+Todo: add melanies text, add experiment informations, fix links, add simons about me_texts
 
 
 time line: 
