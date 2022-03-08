@@ -8,10 +8,6 @@
 8.	Further links
 
 
-    [linglab](https://linglab.uni-graz.at/en/)
-    
-    
-    [Official homepage](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/)
-    
-    
-    We are looking for experiment participants! Click [here](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/neuigkeiten/detail/article/teilnehmer-innen-gesucht/) for more information!
+    [linglab](https://linglab.uni-graz.at/en/)<br>
+    [Official homepage](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/)<br>
+    We are looking for experiment participants! Click [here](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/neuigkeiten/detail/article/teilnehmer-innen-gesucht/) for more information! <br>
