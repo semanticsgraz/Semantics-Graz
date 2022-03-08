@@ -1,4 +1,4 @@
-[back to "previous talks](/prev_talks.md)
+[back to "previous talks](../prev_talks.md)
 
 #### Svitlana Antonyuk
 ### 'Base-generated or derived? Here's how to tell structures apart in Russian'
