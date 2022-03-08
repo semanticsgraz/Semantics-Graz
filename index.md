@@ -6,6 +6,12 @@
 6.  [Projects](projects.md)
 7.	[Blog-News](blog.md)
 8.	Further links
+
+
     [linglab](https://linglab.uni-graz.at/en/)
+    
+    
     [Official homepage](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/)
+    
+    
     We are looking for experiment participants! Click [here](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/neuigkeiten/detail/article/teilnehmer-innen-gesucht/) for more information!
