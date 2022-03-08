@@ -25,7 +25,7 @@ I am a  doctoral candidate at the linguistics department at Uni Graz. Also, I wo
 ## Simon Dampfhofer
 <img align="left" src="images/simon_Bild.jpg"
      alt="Simon Dampfhofer"
-     style="float: left; margin-right: 100px;" width="300" height="400" />
+     style="float: left; margin-right: 100px;" width="300" />
 I study German and Philosophy at Bachelor’s level as well as Physics at Master’s level. Since 2018, I’m a student assistant at the Department of German Studies, where I currently work on an experimental design on the diachronous change of presuppositions.
 Further interests and topics I am working on include: formal linguistics in general, syntactical constraints on German evidential, and many aspects of philosophy of language.
 
