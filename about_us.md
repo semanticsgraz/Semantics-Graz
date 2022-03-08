@@ -31,9 +31,12 @@ Further interests and topics I am working on include: formal linguistics in gene
 
 <br clear="left"/>
 
+
 ## Lea-Sophie Kravanja 
 I am a student assistant at the University of Graz and I study German Language and Literature as well as Linguistics in my bachelor’s degree. I am currently working on a corpus-linguistic study that focuses on the use of the definite article with proper names. 
 I am interested in a wide range of topics and have therefore yet to decide which ones I will focus on in my upcoming master's degree. Due to working as a student assistent, I have discovered that I enjoy working with corpora and I also like to conduct experiments.
+
+<br clear="left"/>
 
 
 ## Michaela Leeb
@@ -42,6 +45,14 @@ I am interested in a wide range of topics and have therefore yet to decide which
      alt="Michaela Leeb"
      style="float: left; margin-right: 100px;" width="300" height="400" />
 I am currently enrolled in the Bachelor's programme in Linguistics, German Studies and the Master's programme in Technical Physics, as I have finished the Bachelor's programme in Physics in 2021. At the Department of German Studies, I am working as a student assistant on a project that combines game theory and pragmatics. I am also engaged in another project that deals with variant grammar and the geographical evolution of language.
+
+<br clear="left"/>
+
+
+## Melanie Loitzl
+I am a student assistant at the university of Graz currently doing my bachelor’s degree in teacher training with the subjects German and English and finishing my bachelor’s degree in German philology/German studies. At the moment, I am working on a corpus study on the use of the definite articles with proper names. As I am a student assistant, I am still discovering my topics of interest, but so far, I have noticed that I generally enjoy working on corpora and conducting experiments.
+
+<br clear="left"/>
 
 
 ## Eva Winkler
