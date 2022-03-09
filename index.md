@@ -10,4 +10,4 @@
 
     [linglab](https://linglab.uni-graz.at/en/)<br>
     [Official homepage](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/)<br>
-    We are looking for experiment participants! Click [here](https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/neuigkeiten/detail/article/teilnehmer-innen-gesucht/) for more information! <br>
+    We are looking for experiment participants! Click [here](https://homepage.uni-graz.at/de/maya.cortez-espinoza/experiment-usa/) for more information! <br>
