@@ -1,4 +1,4 @@
-Todo: fix link back to "previous talks"-page, still does not work :(
+TODO: add blog posts as soon as they are ready :)
 
 
 time line: 
@@ -9,3 +9,4 @@ time line:
 
 8.3. Maya: fixed links, added Simon, Lea-Sophie, Melanie End: 17:00
 
+21.3. Maya: added Vesela, fixed previous talks-link finally!!, End 11:00
