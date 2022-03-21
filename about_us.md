@@ -67,7 +67,7 @@ I am doing the Bachelor´s degree in teacher training in the subjects German, Ge
      alt="Michaela Leeb"
      style="float: left; margin-right: 100px;" width="300" />
 I’m Vesela Simeonova, a post-doc in the project “The erotetic and the aesthetic” where we investigate literary suspense from an experimental perspective at the crossroad between formal linguistics and literary theory. The project is joint between Uni Graz and Uni Goettingen (Germany). We are currently carrying out three experiments testing a novel methodology and theory of suspense that interprets suspenseful experiences in terms of questions. Before joining this project I was a post-doc in Igor Yanovich’s Emmy Noether project "Modal systems in historical Slavic languages” in Tuebingen, Germany, where I investigated the history of future tense in Bulgarian. Before that, I did my PhD at Uni Ottawa, Canada on the syntax and semantics of evidentiality and logophoricity. I am interested in perspectival phenomena, grammaticalized expressions of emotion, and complex clauses. 
-You can find my papers, handouts, and full CV here
+You can find my papers, handouts, and full CV [here](https://kfunigraz.academia.edu/VeselaSimeonova).
 
 <br clear="left"/>
 
