@@ -3,7 +3,7 @@
 ## Lea Fricke
 
 <img align="left" src="images/lea.jpg"
-     alt="Markdown Monster icon"
+     alt="Lea Frickes picture should be here... oh no."
      style="float: left; margin-right: 100px;" width="300"  />
 I am a research assistant at the German Department at the University of Graz. I am writing my dissertation on variation in wh-phrases in embedded questions in German.  From 2017 to 2021, I worked in the XPrag.de project “Exhaustiveness in embedded questions across languages”. Beside (embedded) questions my research interests include information structure, scalar implicatures and experimental methodology. I enjoy working experimentally and with corpora. Find out more about my research and other activities [here](https://homepage.uni-graz.at/de/lea.fricke/).
 
@@ -43,7 +43,7 @@ I am interested in a wide range of topics and have therefore yet to decide which
 
 <img align="left" src="images/pass bild.jpg"
      alt="Michaela Leeb"
-     style="float: left; margin-right: 100px;" width="300" height="400" />
+     style="float: left; margin-right: 100px;" width="300" />
 I am currently enrolled in the Bachelor's programme in Linguistics, German Studies and the Master's programme in Technical Physics, as I have finished the Bachelor's programme in Physics in 2021. At the Department of German Studies, I am working as a student assistant on a project that combines game theory and pragmatics. I am also engaged in another project that deals with variant grammar and the geographical evolution of language.
 
 <br clear="left"/>
@@ -57,6 +57,17 @@ I am a student assistant at the university of Graz currently doing my bachelor�
 
 ## Eva Winkler
 I am doing the Bachelor´s degree in teacher training in the subjects German, Geography an History at the University of Graz. Beside that I am currently working with AMR. I am also interested in FrameNet. I enjoy working with experiments or corpora. 
+
+<br clear="left"/>
+
+
+## Vesela Simeonova
+
+<img align="left" src="images/s200_vesela.simeonova.jpg"
+     alt="Michaela Leeb"
+     style="float: left; margin-right: 100px;" width="300" />
+I’m Vesela Simeonova, a post-doc in the project “The erotetic and the aesthetic” where we investigate literary suspense from an experimental perspective at the crossroad between formal linguistics and literary theory. The project is joint between Uni Graz and Uni Goettingen (Germany). We are currently carrying out three experiments testing a novel methodology and theory of suspense that interprets suspenseful experiences in terms of questions. Before joining this project I was a post-doc in Igor Yanovich’s Emmy Noether project "Modal systems in historical Slavic languages” in Tuebingen, Germany, where I investigated the history of future tense in Bulgarian. Before that, I did my PhD at Uni Ottawa, Canada on the syntax and semantics of evidentiality and logophoricity. I am interested in perspectival phenomena, grammaticalized expressions of emotion, and complex clauses. 
+You can find my papers, handouts, and full CV here
 
 <br clear="left"/>
 
