@@ -12,3 +12,5 @@ time line:
 21.3. Maya: added Vesela, fixed previous talks-link finally!!, End 11:00
 
 23.3. Michi: 13.00 updated Vesela, Simon and Lea at the about me blog texts  END: 14.00
+
+27.03. Michi: 22.24 update Melanie and Lea Sophies-Blog text
