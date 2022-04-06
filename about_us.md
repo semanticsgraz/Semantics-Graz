@@ -67,10 +67,7 @@ I am a student assistant at the university of Graz currently doing two bachelorâ
 <br clear="left"/>
 
 
-## Eva Winkler
-I am doing the BachelorÂ´s degree in teacher training in the subjects German, Geography an History at the University of Graz. Beside that I am currently working with AMR. I am also interested in FrameNet. I enjoy working with experiments or corpora. 
 
-<br clear="left"/>
 
 
 
