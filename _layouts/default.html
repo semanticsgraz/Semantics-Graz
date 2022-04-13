@@ -27,16 +27,18 @@
 
         {% if site.github.is_project_page %}
 
-        <a class="buttons github" href="https://semanticsgraz.github.io/Semantics-Graz/" style="font-size: 160%;">Semantics Graz</a>
+        <a class="buttons github" href="https://semanticsgraz.github.io/Semantics-Graz/" style="font-size: 120%;">Semantics Graz</a>
         <p class="header">This blog is maintained by team of Prof. Edgar Onea. </p>
         <ul>
-            <li><a id="about" href="https://semanticsgraz.github.io/Semantics-Graz/about_us.html" onclick="changeactive(about)">About us</a></li>
-            <li><a id="read" href="https://semanticsgraz.github.io/Semantics-Graz/reading_groups.html" onclick="changeactive(read)">Reading Group</a></li>
-            <li><a  id="prev" href="https://semanticsgraz.github.io/Semantics-Graz/prev_talks.html" onclick="changeactive(prev)">Previous Talks</a></li>
-            <li><a  id="proj" href="https://semanticsgraz.github.io/Semantics-Graz/projects.html" onclick="changeactive(proj)">Projects</a></li>
-            <li><a  id="blog" href="https://semanticsgraz.github.io/Semantics-Graz/" onclick="changeactive(blog)">Blog-News</a></li>
-            <li style="background-color: black;"><p>Further links</p></li>
-            <li><a href="https://linglab.uni-graz.at/en/">LingLab</a></li>
+            <li><a href="https://semanticsgraz.github.io/Semantics-Graz/about_us.html">About us</a></li>
+            <li><a href="https://semanticsgraz.github.io/Semantics-Graz/reading_groups.html">Reading Group</a></li>
+            <li><a href="https://semanticsgraz.github.io/Semantics-Graz/prev_talks.html">Previous Talks</a></li>
+            <li><a href="https://semanticsgraz.github.io/Semantics-Graz/projects.html">Projects</a></li>
+            <li><a href="https://semanticsgraz.github.io/Semantics-Graz/blog.html">Blog-News</a></li>
+        </ul>
+        <p>Further Links</p>
+        <ul>
+            <li><a href="https://linglab.uni-graz.at/en/">Visit LingLab</a></li>
             <li><a href="https://germanistik.uni-graz.at/de/arbeitsbereich-theoretische-und-empirische-linguistik/">Arbeitsbereich</a></li>
         </ul>
         {% endif %}
@@ -57,17 +59,4 @@
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
-  <script>
-
-      var ids = ["about", "read", "prev", "proj", "blog"];
-
-      function changeactive(id) {
-          document.getElementById(id).className += 'active';
-          for (var idArray of ids) {
-              if (idArray != id && document.getElementById(idArray).className != null) {
-                  document.getElementById(idArray).classList.remove('active');
-              }
-          }
-      }
-  </script>
 </html>
