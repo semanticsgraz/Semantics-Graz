@@ -1,6 +1,4 @@
 theme: jekyll-theme-dinky
 title: Welcome!
 description: Here, you can see the latest news in our group! 
-nav:
-    - 'index.md'
-    - 'halloworld.md'
+
