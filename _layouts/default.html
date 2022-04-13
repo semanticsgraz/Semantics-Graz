@@ -62,7 +62,7 @@
       var ids = ["about", "read", "prev", "proj", "blog"];
 
       function changeactive(id) {
-          document.getElementById(id).className = 'active';
+          document.getElementById(id).className += 'active';
           for (var idArray of ids) {
               if (idArray != id && document.getElementById(idArray).className != null) {
                   document.getElementById(idArray).classList.remove('active');
