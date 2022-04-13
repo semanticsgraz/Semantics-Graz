@@ -1,5 +1,3 @@
-[get back to the main page](index.md)
-
 # About Us
 
 ## Vesela Simeonova
@@ -65,11 +63,6 @@ I am currently enrolled in the Bachelor's programme in Linguistics, German Studi
 I am a student assistant at the university of Graz currently doing two bachelor’s degrees, namely one in teacher training with the subjects German and English and another one in German philology/German studies. At the moment, I am working on a corpus study together with Lea-Sophie and Prof. Onea where we investigate the use of definite articles with proper names in German. Additionally, I help conducting experiments for projects my other colleagues have, which I enjoy, too. As I am a student assistant, I am still discovering my topics of interest, but so far, I have noticed that I generally enjoy working on corpora and conducting experiments.
 
 <br clear="left"/>
-
-
-
-
-
 
 
 
