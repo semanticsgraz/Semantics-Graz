@@ -2,25 +2,6 @@
 layout: default
 ---
 
-    <style>
-        a {
-            box-shadow: inset 0 0 0 0 #54b3d6;
-            color: #54b3d6;
-            margin: 0 -.25rem;
-            padding: 0 .25rem;
-            transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-        }
-        a:hover {
-            box-shadow: inset 100px 0 0 0 #54b3d6;
-            color: white;
-        }
-        .hide {
-            display: none;
-        }
-        .myDIV:hover + .hide {
-            display: block;
-        }
-    </style>
 
 
 <h1>Here, you find our most recent activities</h1>
