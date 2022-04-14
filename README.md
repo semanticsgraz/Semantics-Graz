@@ -14,3 +14,5 @@ time line:
 23.3. Michi: 13.00 updated Vesela, Simon and Lea at the about me blog texts  END: 14.00
 
 27.03. Michi: 22.24 update Melanie and Lea Sophies-Blog text
+
+13.4. and 14.4. changed default layout, changed index file to blog entries, updated style.css, added menu bar, end 10:00
