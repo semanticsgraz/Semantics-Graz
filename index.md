@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
- <head>
-  <link rel="import" href="_layouts/default.html">
+---
+layout: default
+---
+
     <style>
         a {
             box-shadow: inset 0 0 0 0 #54b3d6;
@@ -22,8 +22,7 @@
         }
     </style>
 
- </head>
- <body>
+
 <h1>Here, you find our most recent activities</h1>
 <div class="myDIV"><p><a href="#ML1">Melanie Loitzl</a></p></div>
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
@@ -70,5 +69,3 @@
     close to the reading probabilities as they are found in the population of German speakers.</p>  
 </div>
 
- </body>
-</html>
