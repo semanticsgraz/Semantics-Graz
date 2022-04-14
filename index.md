@@ -40,7 +40,7 @@ layout: default
       <img 
            src="images/example_sis.jpg" 
            alt="A linguistic example showing Scalar Implicatures" 
-           style="height:128px;float: left;">
+           style="height:80px;float: left;">
     To determine the likelihood for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) for both tenses, 
     we want to conduct a Markow Chain Monte Carlo Simulation. This means that we estimate for each tense what the probabilities may be for each reading. 
     From this estimation, we draw a number of random samples and compare the result to the sample that we got from the experiment. 
