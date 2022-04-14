@@ -1,5 +1,3 @@
-[back to the main page](index.md)
-
 Here you find informations of projects connected to our group. 
 
 ### ExQ: Exhaustiveness in embedded questions. 
