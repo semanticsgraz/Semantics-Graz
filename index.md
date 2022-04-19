@@ -24,28 +24,20 @@ layout: default
 <div id="MC1">
     <h3>Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
     <p>
-    The Monte Carlo Simulation is a mathematical method for solving complex problems with the help of chance. 
-    The underlying idea is the law of large numbers. It says that when running independent tests repeatedly, the chance that the probability 
-    for the found outcomes differing from the true probability converges to zero as the number of trials goes to infinity. This means that drawing random samples 
-    is the key to estimating probabilities if the probabilistic space is too large to be covered in total. 
-    Lea Fricke and I recently conducted an experiment on students of Graz University to find out more about scalar implicatures. 
-    Amongst other questions, we were interested in the dependence of the interpretation of scalar terms on the tense of the sentence. 
-    More concretely, a scalar implicature is computed if a term like “some” is interpreted as “some and not all” as can be seen in (1). 
-    If “some” appeared in a future tense sentence, see (2), the implicature is less likely drawn and “some” is more likely to mean “some and possibly all”. 
+    The Monte Carlo Simulation is a mathematical method for solving complex statistical problems with the help of chance. The underlying idea is the law of large numbers: When running independent tests repeatedly, the found parameters will converge to the real parameters as the number of trials goes to infinity. This agrees with our intuition. When throwing a coin, the higher the number of throws, the better we know the probabilities for getting head/tail as a result.  This means that drawing random samples is the key to estimating probabilities if the probabilistic space is too large to be covered in total. Think of an opinion poll. If want to know society’s opinion on something, you cannot ask the whole population for their opinion. But drawing random samples and asking a small number of people is manageable and doing this repeatedly will get you fairly close to the opinion of the population. <br>
+Lea Fricke and I recently conducted an experiment on students of Graz University.  to find out more We were interested in a phenomenon called scalar implicature – in particular, we investigated the effect of tense on Scalar Implicatures. If a scalar term like ‘some’ is interpreted as ‘some and not all’, additional information is extracted, which is not part of the basic meaning of the word. Linguists say that ‘a scalar implicature is computed’. An example can be seen in (1). A study on children in 2000 found that if ‘some’ appeared in a future tense sentence (see (2)), the implicature does not arise and ‘some’ is more likely to mean ‘some and possibly all’. 
       <img 
            src="images/example_sis.jpg" 
            alt="A linguistic example showing Scalar Implicatures" 
            style="
-                  height:90px;
+                  height:100px;
                   float: left;
-                  padding:5px;">
-    To determine the likelihood for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) for both tenses, 
-    we want to conduct a Markow Chain Monte Carlo Simulation. This means that we estimate for each tense what the probabilities may be for each reading. 
-    From this estimation, we draw a number of random samples and compare the result to the sample that we got from the experiment. 
-    In the next step, we change our probability estimation slightly, draw random samples again and compare it to our real sample. 
-    If the new estimation gives us better results than the first, we move on from there. An algorithm will do this for us many, 
-    many times in just a few seconds and ultimately, we arrive at probabilities for both readings that are highly likely to be very 
-    close to the reading probabilities as they are found in the population of German speakers.</p>  
+                  padding:7px;">
+    
+    In our experiment, people had to judge sentences like (1) and (2) with respect to contexts that rendered the one reading ([-Scalar Implicature]) true and the other ([+Scalar Implicature]) false. We hypothesize that judging a sentence to be true or false requires the participant to have a sufficiently high probability for the respective reading. We further hypothesize that the population of German speakers has reading probabilities that are normally distributed around a mean and each participant is part of that population with their probabilities deviating within this distribution. With a Markow Chain Monte Carlo Simulation we intend to determine the probabilities for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) as they are found in the population of German speakers. <br>
+This is done the following way: We create a population with invented reading probabilities. We draw a large number of random samples from this population and see how likely it is to get the results we we actually got in our experiment. We thereby pretend that the imagined population was the one (the population of German Speakers) we took our real sample from. An algorithm will then change the population probabilities slightly and draw random samples again. It will and compare the two results, changing new probabilities according to these results. <br>
+Eventually, it will determine the population with reading probabilities that fit best the results we found in our experiment. We do this for both tenses and will arrive at a conclusion whether the reading probabilities differ between them. 
+</p>  
 </div>
 
 
