@@ -13,20 +13,13 @@ layout: default
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 
-
-
-<div id="ML1">
-    <h3> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
-
-    Last week Melanie gave first insights into our research project on the use of definite articles with proper names.
-    We tested a previous work’s hypothesis that there is a difference between the article usage before male and female first names. 
-    (Other gender identities cannot be taken into account because our corpus of language data does not provide specific information about this.) 
-    Based on our current data, there seems to be little difference between the two genders, both in terms of the usage of a definite article in general 
-    (i. e. optional + required definite articles together) and in terms of only the optional usage of a definite article. However, 
-    as to the case of the general usage of the definite article an article appears to be used more often with female names in dative. 
-    If this difference is statistically significant, we have yet to find out, because we are still calculating our data at the moment.
-    Our working hypothesis is that the use of definite articles often expresses a relationship of proximity but can also have pejorative purposes.
+<div id="VS1">
+    <h3>Epistemic Future in Reflective Questions</h3>
+    <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
+        <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!</p>  
 </div>
+
+
 
 <div id="MC1">
     <h3>Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
@@ -55,8 +48,17 @@ layout: default
     close to the reading probabilities as they are found in the population of German speakers.</p>  
 </div>
 
-<div id="VS1">
-    <h3>Epistemic Future in Reflective Questions</h3>
-    <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
-        <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!</p>  
+
+
+<div id="ML1">
+    <h3> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
+
+    Last week Melanie gave first insights into our research project on the use of definite articles with proper names.
+    We tested a previous work’s hypothesis that there is a difference between the article usage before male and female first names. 
+    (Other gender identities cannot be taken into account because our corpus of language data does not provide specific information about this.) 
+    Based on our current data, there seems to be little difference between the two genders, both in terms of the usage of a definite article in general 
+    (i. e. optional + required definite articles together) and in terms of only the optional usage of a definite article. However, 
+    as to the case of the general usage of the definite article an article appears to be used more often with female names in dative. 
+    If this difference is statistically significant, we have yet to find out, because we are still calculating our data at the moment.
+    Our working hypothesis is that the use of definite articles often expresses a relationship of proximity but can also have pejorative purposes.
 </div>
