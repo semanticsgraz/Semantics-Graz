@@ -16,7 +16,7 @@ layout: default
 
 
 <div id="ML1">
-    <h3> role of gender in the usage of the definite article with proper names in German </h3>
+    <h3> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
 
     Last week Melanie gave first insights into our research project on the use of definite articles with proper names.
     We tested a previous work’s hypothesis that there is a difference between the article usage before male and female first names. 
