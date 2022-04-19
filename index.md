@@ -4,11 +4,14 @@ layout: default
 
 
 
-<h1>Here, you find our most recent activities</h1>
-<div class="myDIV"><p><a href="#ML1">Melanie Loitzl</a></p></div>
-<div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
-<div class="myDIV"><p><a href="#MC1">Maya Cortez Espinoza</a></p></div>
+<h1>Our most recent activities</h1>
+<div class="myDIV"><p><a href="#VS1">UPCOMING TALK: Friday, April 22nd: Vesela Simeonova</a></p></div>
+<div class="hide"><p>Epistemic Future in Reflective Questions</p></div>
+<div class="myDIV"><p><a href="#MC1">April 15th 2022 Maya Cortez Espinoza</a></p></div>
 <div class="hide"><p>Predicting the Interpretation Probabilities with the help of the Monte Carlo Simulation</p></div>
+<div class="myDIV"><p><a href="#ML1">March 18th 2022: Melanie Loitzl</a></p></div>
+<div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
+
 
 
 
@@ -52,3 +55,8 @@ layout: default
     close to the reading probabilities as they are found in the population of German speakers.</p>  
 </div>
 
+<div id="VS1">
+    <h3>Epistemic Future in Reflective Questions</h3>
+    <p>
+        <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!</p>  
+</div>
