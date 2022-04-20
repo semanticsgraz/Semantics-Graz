@@ -7,14 +7,14 @@ layout: default
 <h1>News/Activities</h1>
 <div class="myDIV"><p><a href="#VS1">On Friday, April 22, Vesela Simeonova will present at the Chicago Linguistic Society</a></p></div>
 <div class="hide"><p>Epistemic Future in Reflective Questions</p></div>
-<div class="myDIV"><p><a href="#MC1">BLOG ENTRY: April 15th 2022 Maya Cortez Espinoza is presenting work in progress</a></p></div>
+<div class="myDIV"><p><a href="#MC1">BLOG ENTRY: April 15th 2022 Maya Cortez Espinoza presents work in progress</a></p></div>
 <div class="hide"><p>Predicting the Interpretation Probabilities with the help of the Monte Carlo Simulation</p></div>
 <div class="myDIV"><p><a href="#ML1">BLOG ENTRY: March 18th 2022: Melanie Loitzl presents work in progress</a></p></div>
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 
 <div id="VS1">
-    <h4>Vesela will present at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
+    <h4 style="">Vesela will present at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
     <h3>Epistemic Future in Reflective Questions</h3>
     <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
         <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!
@@ -25,6 +25,7 @@ layout: default
 
 
 <div id="MC1">
+    <h4 style="">Maya presents work in progress. Blog entry on April 15th, 2022</h4>
     <h3>Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
     <p>
     The Monte Carlo Simulation is a mathematical method for solving complex statistical problems with the help of chance. The underlying idea is the law of large numbers: When running independent tests repeatedly, the found parameters will converge to the real parameters as the number of trials goes to infinity. This agrees with our intuition. When throwing a coin, the higher the number of throws, the better we know the probabilities for getting head/tail as a result.  This means that drawing random samples is the key to estimating probabilities if the probabilistic space is too large to be covered in total. Think of an opinion poll. If want to know society’s opinion on something, you cannot ask the whole population for their opinion. But drawing random samples and asking a small number of people is manageable and doing this repeatedly will get you fairly close to the opinion of the population. <br>
@@ -46,6 +47,7 @@ Eventually, it will determine the population with reading probabilities that fit
 
 
 <div id="ML1">
+    <h4 style="">Melanie presents work in progress. Blog entry on March 18th, 2022. </h4>
     <h3> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
 
     Last week Melanie gave first insights into our research project on the use of definite articles with proper names.
