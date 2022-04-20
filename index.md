@@ -4,12 +4,12 @@ layout: default
 
 
 
-<h1>Our most recent activities</h1>
+<h1>News/Activities</h1>
 <div class="myDIV"><p><a href="#VS1">UPCOMING TALK: Friday, April 22nd: Vesela Simeonova</a></p></div>
 <div class="hide"><p>Epistemic Future in Reflective Questions</p></div>
-<div class="myDIV"><p><a href="#MC1">April 15th 2022 Maya Cortez Espinoza</a></p></div>
+<div class="myDIV"><p><a href="#MC1">BLOG ENTRY: April 15th 2022 Maya Cortez Espinoza</a></p></div>
 <div class="hide"><p>Predicting the Interpretation Probabilities with the help of the Monte Carlo Simulation</p></div>
-<div class="myDIV"><p><a href="#ML1">March 18th 2022: Melanie Loitzl</a></p></div>
+<div class="myDIV"><p><a href="#ML1">BLOG ENTRY: March 18th 2022: Melanie Loitzl</a></p></div>
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 
