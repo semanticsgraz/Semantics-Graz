@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>News/Activities</h1>
-<div class="myDIV"><p><a href="#LF1">Lea reports on our trip to Vilnius!</a></p></div>
+<div class="myDIV"><p><a href="#LF1">BLOG ENTRY: Monday, May 2nd 2022: Lea reports on our trip to Vilnius!</a></p></div>
 <div class="hide"><p>Arqus twinning workshop in Vilnius</p></div>
 <div class="myDIV"><p><a href="#VS1">On Friday, April 22, Vesela Simeonova presented at the Chicago Linguistic Society</a></p></div>
 <div class="hide"><p>Epistemic Future in Reflective Questions</p></div>
@@ -13,7 +13,7 @@ layout: default
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 <div id="LF1">
-    <h4>Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd, 2022</h4>
+    <h4>Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd 2022</h4>
     <h3 style="margin-top:0pt">Arqus twinning workshop in Vilnius</h3>
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>. Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
     </p>  
@@ -25,10 +25,7 @@ layout: default
     <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
         <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!
     </p>  
- 
 </div>
-
-
 
 <div id="MC1">
     <h4>Maya presents work in progress. Blog entry on April 15th, 2022</h4>
@@ -44,7 +41,7 @@ Lea Fricke and I recently conducted an experiment on students of Graz University
                   float: left;
                   padding:7px;">
     
-    In our experiment, people had to judge sentences like (1) and (2) with respect to contexts that rendered the one reading ([-Scalar Implicature]) true and the other ([+Scalar Implicature]) false. We hypothesize that judging a sentence to be true or false requires the participant to have a sufficiently high probability for the respective reading. We further hypothesize that the population of German speakers has reading probabilities that are normally distributed around a mean and each participant is part of that population with their probabilities deviating within this distribution. With a Markow Chain Monte Carlo Simulation we intend to determine the probabilities for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) as they are found in the population of German speakers. <br>
+In our experiment, people had to judge sentences like (1) and (2) with respect to contexts that rendered the one reading ([-Scalar Implicature]) true and the other ([+Scalar Implicature]) false. We hypothesize that judging a sentence to be true or false requires the participant to have a sufficiently high probability for the respective reading. We further hypothesize that the population of German speakers has reading probabilities that are normally distributed around a mean and each participant is part of that population with their probabilities deviating within this distribution. With a Markow Chain Monte Carlo Simulation we intend to determine the probabilities for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) as they are found in the population of German speakers. <br>
 This is done the following way: We create a population with invented reading probabilities. We draw a large number of random samples from this population and see how likely it is to get the results we we actually got in our experiment. We thereby pretend that the imagined population was the one (the population of German Speakers) we took our real sample from. An algorithm will then change the population probabilities slightly and draw random samples again. It will and compare the two results, changing new probabilities according to these results. <br>
 Eventually, it will determine the population with reading probabilities that fit best the results we found in our experiment. We do this for both tenses and will arrive at a conclusion whether the reading probabilities differ between them. 
 </p>  
