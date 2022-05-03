@@ -13,15 +13,15 @@ layout: default
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 <div id="LF1">
-    <h4 style="">Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd, 2022</h4>
-    <h3>Arqus twinning workshop in Vilnius</h3>
+    <h4>Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd, 2022</h4>
+    <h3 style="margin-top:0pt">Arqus twinning workshop in Vilnius</h3>
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>. Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
     </p>  
 </div>
 
 <div id="VS1">
-    <h4 style="">Vesela presented at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
-    <h3>Epistemic Future in Reflective Questions</h3>
+    <h4>Vesela presented at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
+    <h3 style="margin-top:0pt">Epistemic Future in Reflective Questions</h3>
     <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
         <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!
     </p>  
@@ -31,8 +31,8 @@ layout: default
 
 
 <div id="MC1">
-    <h4 style="">Maya presents work in progress. Blog entry on April 15th, 2022</h4>
-    <h3>Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
+    <h4>Maya presents work in progress. Blog entry on April 15th, 2022</h4>
+    <h3 style="margin-top:0pt">Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
     <p>
     The Monte Carlo Simulation is a mathematical method for solving complex statistical problems with the help of chance. The underlying idea is the law of large numbers: When running independent tests repeatedly, the found parameters will converge to the real parameters as the number of trials goes to infinity. This agrees with our intuition. When throwing a coin, the higher the number of throws, the better we know the probabilities for getting head/tail as a result.  This means that drawing random samples is the key to estimating probabilities if the probabilistic space is too large to be covered in total. Think of an opinion poll. If want to know society’s opinion on something, you cannot ask the whole population for their opinion. But drawing random samples and asking a small number of people is manageable and doing this repeatedly will get you fairly close to the opinion of the population. <br>
 Lea Fricke and I recently conducted an experiment on students of Graz University.  to find out more We were interested in a phenomenon called scalar implicature – in particular, we investigated the effect of tense on Scalar Implicatures. If a scalar term like ‘some’ is interpreted as ‘some and not all’, additional information is extracted, which is not part of the basic meaning of the word. Linguists say that ‘a scalar implicature is computed’. An example can be seen in (1). A study on children in 2000 found that if ‘some’ appeared in a future tense sentence (see (2)), the implicature does not arise and ‘some’ is more likely to mean ‘some and possibly all’. 
@@ -53,8 +53,8 @@ Eventually, it will determine the population with reading probabilities that fit
 
 
 <div id="ML1">
-    <h4 style="">Melanie presents work in progress. Blog entry on March 18th, 2022. </h4>
-    <h3> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
+    <h4>Melanie presents work in progress. Blog entry on March 18th, 2022. </h4>
+    <h3 style="margin-top:0pt"> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
 
     Last week Melanie gave first insights into our research project on the use of definite articles with proper names.
     We tested a previous work’s hypothesis that there is a difference between the article usage before male and female first names. 
