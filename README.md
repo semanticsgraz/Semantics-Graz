@@ -1,4 +1,8 @@
-TODO: add blog posts as soon as they are ready :)
+TODO: 
+
+1. add blog posts as soon as they are ready :)
+2. add pictures for Leas blog-post (called vilnius 1-3 in the images-folder) maybe as thumbnails or any other fancy way?
+
 
 
 time line: 
@@ -16,3 +20,5 @@ time line:
 27.03. Michi: 22.24 update Melanie and Lea Sophies-Blog text
 
 13.4. and 14.4. changed default layout, changed index file to blog entries, updated style.css, added menu bar, end 10:00
+
+3.5. Updated Index.md added Leas blog post
