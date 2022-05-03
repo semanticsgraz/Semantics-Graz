@@ -5,16 +5,24 @@ layout: default
 
 
 <h1>News/Activities</h1>
-<div class="myDIV"><p><a href="#VS1">On Friday, April 22, Vesela Simeonova will present at the Chicago Linguistic Society</a></p></div>
+<div class="myDIV"><p><a href="#LF1">Lea reports on our trip to Vilnius!</a></p></div>
+<div class="hide"><p>Arqus twinning workshop in Vilnius</p></div>
+<div class="myDIV"><p><a href="#VS1">On Friday, April 22, Vesela Simeonova presented at the Chicago Linguistic Society</a></p></div>
 <div class="hide"><p>Epistemic Future in Reflective Questions</p></div>
 <div class="myDIV"><p><a href="#MC1">BLOG ENTRY: April 15th 2022 Maya Cortez Espinoza presents work in progress</a></p></div>
 <div class="hide"><p>Predicting the Interpretation Probabilities with the help of the Monte Carlo Simulation</p></div>
 <div class="myDIV"><p><a href="#ML1">BLOG ENTRY: March 18th 2022: Melanie Loitzl presents work in progress</a></p></div>
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
+<div id="LF1">
+    <h4 style="">Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd, 2022</h4>
+    <h3>Arqus twinning workshop in Vilnius</h3>
+    <p>Together with [Alexandre Cremers](https://alexandrecremers.com/), researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the [Arqus European University Alliance](https://www.arqus-alliance.eu/). Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
+    </p>  
+</div>
 
 <div id="VS1">
-    <h4 style="">Vesela will present at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
+    <h4 style="">Vesela presented at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
     <h3>Epistemic Future in Reflective Questions</h3>
     <p>The force of epistemic futures in Slavic, Balkan, and Romance languages has been debated: some propose it is variable (Condoravdi, 2003; Rivero, 2014; Rivero and Simeonova, 2014; Rivero and Sheppard, 2016), others that it is fixed and strong (Fălăuş, 2014; Fălăuş & Laca, 2014; Giannakidou and Mari, 2018; Mihoc et al., 2019). This talk shows how interrogative environments can inform the epistemic future's force, capitalizing on the special properties of standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich (2016) on Old English *motan, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
         <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a> to find out more about the talk or ask me for a link to participate!
