@@ -19,9 +19,9 @@ layout: default
         <div style="float:right">
  <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img src="images/vilnius1.JPG" alt="vilnius pic 1" style="width:90px"></a>
  <a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img src="images/vilnius2.JPG" alt="vilnius pic 2" style="width:90px"></a>
- <a target ="_blank" href="images/vilnius3.JPG" title ="Click me!"> <img src="images/vilnius3.JPG" alt="vilnius pic 3" style="width:90px"></a>
+ <a target ="_blank" href="images/vilnius3.JPG" title ="Click me!"> <img src="images/vilnius3.JPG" alt="vilnius pic 3" style="width:90px"></a></div>
 Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
-</div>  </p> 
+  </p> 
 
 <div id="VS1">
     <h4>Vesela presented at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
