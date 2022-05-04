@@ -16,10 +16,9 @@ layout: default
     <h4>Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd 2022</h4>
     <h3 style="margin-top:0pt">Arqus twinning workshop in Vilnius</h3>
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>.  
-        <div style="float:right">
- <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img src="images/vilnius1.JPG" alt="vilnius pic 1" style="width:90px"></a>
- <a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img src="images/vilnius2.JPG" alt="vilnius pic 2" style="width:90px"></a>
- <a target ="_blank" href="images/vilnius3.JPG" title ="Click me!"> <img src="images/vilnius3.JPG" alt="vilnius pic 3" style="width:90px"></a></div>
+        <div>
+ <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img style="float:right" src="images/vilnius1.JPG" alt="vilnius pic 1" style="width:90px"></a>
+ </div>
 Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
   </p> 
 
@@ -44,7 +43,8 @@ Lea Fricke and I recently conducted an experiment on students of Graz University
                   height:100px;
                   float: left;
                   padding:7px;">
-    
+<a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img src="images/vilnius2.JPG" alt="vilnius pic 2" style="width:90px"></a>
+<a target ="_blank" href="images/vilnius3.JPG" title ="Click me!"> <img src="images/vilnius3.JPG" alt="vilnius pic 3" style="width:90px"></a>    
 In our experiment, people had to judge sentences like (1) and (2) with respect to contexts that rendered the one reading ([-Scalar Implicature]) true and the other ([+Scalar Implicature]) false. We hypothesize that judging a sentence to be true or false requires the participant to have a sufficiently high probability for the respective reading. We further hypothesize that the population of German speakers has reading probabilities that are normally distributed around a mean and each participant is part of that population with their probabilities deviating within this distribution. With a Markow Chain Monte Carlo Simulation we intend to determine the probabilities for each of the two readings ([+Scalar Implicature]/ [- Scalar Implicature]) as they are found in the population of German speakers. <br>
 This is done the following way: We create a population with invented reading probabilities. We draw a large number of random samples from this population and see how likely it is to get the results we we actually got in our experiment. We thereby pretend that the imagined population was the one (the population of German Speakers) we took our real sample from. An algorithm will then change the population probabilities slightly and draw random samples again. It will and compare the two results, changing new probabilities according to these results. <br>
 Eventually, it will determine the population with reading probabilities that fit best the results we found in our experiment. We do this for both tenses and will arrive at a conclusion whether the reading probabilities differ between them. 
