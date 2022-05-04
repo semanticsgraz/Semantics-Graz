@@ -8,4 +8,4 @@ standard epistemic modals in questions giving rise to so-called 'reflective' que
 The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich 
 (2016) on Old English *motan*, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
 <img src="images/screenshot_talk_ves.png" alt="a screenshot of my online talk" style="width: 128px; float: right;">
-<a href= "previous_talks/poster_ves.pdf"> Here</a>, you can find my poster! 
+<a href= "images/poster_ves.pdf"> Here</a>, you can find my poster! 
