@@ -18,13 +18,15 @@ layout: default
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>. Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
         
 <a target="_blank" href="images/vilnius1.jpg" title="Click me!">
-  <img src="images/vilnius1.jpg" alt="Forest" style="width:30px; float:right>
+  <img src="images/vilnius1.jpg" alt="Vilnius pic 1" style="width:30px; float:right>
 </a>
+                                                            
 <a target="_blank" href="images/vilnius2.jpg" title="Click me!">
-  <img src="images/vilnius2.jpg" alt="Forest" style="width:30px; float:right>
+  <img src="images/vilnius2.jpg" alt="Vilnius pic 2" style="width:30px; float:right>
 </a>
+        
 <a target="_blank" href="images/vilnius3.jpg" title="Click me!">
-  <img src="images/vilnius3.jpg" alt="Forest" style="width:30px; float:right>
+  <img src="images/vilnius3.jpg" alt="Vilnius pic 3" style="width:30px; float:right>
 </a>
     </p>  
 </div>
