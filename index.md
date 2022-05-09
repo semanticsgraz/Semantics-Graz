@@ -16,12 +16,12 @@ layout: default
     <h4>Lea reports on our trip to Vilnius! Blog entry on Monday, May 2nd 2022</h4>
     <h3 style="margin-top:0pt">Arqus twinning workshop in Vilnius</h3>
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>.  
- <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img style="float:right; width:130px; padding: 5px;" src="images/vilnius1.JPG" alt="vilnius pic 1"></a>
+ <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img style="float:right; clear: both; width:130px; padding: 5px;" src="images/vilnius1.JPG" alt="vilnius pic 1"></a>
  <a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img style="clear:right; float:right; width:130px; padding: 5px;" src="images/vilnius2.JPG" alt="vilnius pic 2"></a>
 <a target ="_blank" href="images/vilnius5.jpeg" title ="Click me!"> <img style="clear:right; float: right; width:130px; padding: 5px;" src="images/vilnius5.jpeg" alt="vilnius pic 5"></a>
- <a target ="_blank" href="images/vilnius4.jpeg" title ="Click me!"> <img style="float:left; width:130px; padding: 5px;" src="images/vilnius4.jpeg" alt="vilnius pic 4"></a>
+ <a target ="_blank" href="images/vilnius4.jpeg" title ="Click me!"> <img style="float:left; clear: both; width:130px; padding: 5px;" src="images/vilnius4.jpeg" alt="vilnius pic 4"></a>
  
-<a target ="_blank" href="images/vilnius6.jpeg" title ="Click me!"> <img style="clear:left; width:130px; padding: 5px;" src="images/vilnius6.jpeg" alt="vilnius pic 6"></a>
+<a target ="_blank" href="images/vilnius6.jpeg" title ="Click me!"> <img style="clear:both; width:130px; padding: 5px;" src="images/vilnius6.jpeg" alt="vilnius pic 6"></a>
 Five students of our group travelled together with Edgar Onea to Vilnius for a week to work on methodological questions in empirical linguistic research. The workshop thematically connected to and built on an ongoing cooperation between Alexandre Cremers, Edgar Onea and Lea Fricke. In their joint research, they experimentally investigate different prompts and response tasks commonly used in linguistic research with regard to their validity and their efficiency. The program of our workshop included sessions on statistical model building, Bayesian statistics and experimental design as well as talks by Alexandre Cremers, Maya Cortez, Lea Fricke and Edgar Onea. We learned a lot in this week and enjoyed the exchange with students from the philology department in Vilnius. Beside the academic activities, we explored the beautiful capital of Lithuania, went on a trip to Trakai island castle, and got to know plenty of local delicacies.
   </p> 
 
