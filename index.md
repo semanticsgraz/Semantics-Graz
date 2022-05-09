@@ -17,7 +17,7 @@ layout: default
     <h3 style="margin-top:0pt">Arqus twinning workshop in Vilnius</h3>
     <p>Together with <a href="https://alexandrecremers.com/">Alexandre Cremers</a>, researcher at Vilnius University, we organized a joint workshop as part of the twinning program by the <a href="https://www.arqus-alliance.eu/">Arqus European University Alliance</a>.  
  <a target ="_blank" href="images/vilnius1.JPG" title ="Click me!"> <img style="float:right; clear: both; width:130px; padding: 5px;" src="images/vilnius1.JPG" alt="vilnius pic 1"></a>
- <a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img style="clear:right; float:right; width:130px; padding: 5px;" src="images/vilnius2.JPG" alt="vilnius pic 2"></a>
+ <a target ="_blank" href="images/vilnius2.JPG" title ="Click me!"> <img style="clear:right; width:130px; padding: 5px;" src="images/vilnius2.JPG" alt="vilnius pic 2"></a>
 <a target ="_blank" href="images/vilnius5.jpeg" title ="Click me!"> <img style="clear:right; float: right; width:130px; padding: 5px;" src="images/vilnius5.jpeg" alt="vilnius pic 5"></a>
  <a target ="_blank" href="images/vilnius4.jpeg" title ="Click me!"> <img style="float:left; clear: both; width:130px; padding: 5px;" src="images/vilnius4.jpeg" alt="vilnius pic 4"></a>
  
