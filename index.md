@@ -61,8 +61,6 @@ Eventually, it will determine the population with reading probabilities that fit
 </p>  
 </div>
 
-
-
 <div id="ML1">
     <h4>Melanie presents work in progress. Blog entry on March 18th, 2022. </h4>
     <h3 style="margin-top:0pt"> The Role of Gender in the Usage of the Definite Article with Proper Names in German </h3>
