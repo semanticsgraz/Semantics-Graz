@@ -7,5 +7,5 @@ Mihoc et al., 2019). This talk shows how interrogative environments can inform t
 standard epistemic modals in questions giving rise to so-called 'reflective' questions (Giannakidou & Mari 2019). The empirical focus is on Bulgarian. 
 The results reject a strong force hypothesis and provide novel support for the variable force hypothesis. The formal account is based on Yanovich 
 (2016) on Old English *motan*, from which an intriguing explanation of the relationship between futurity and epistemicity can be gleaned. <br>
-<img src="images/screenshot_talk_ves.png" alt="a screenshot of my online talk" style="width: 128px; float: right;">
-<a href= "images/poster_ves.pdf"> Here</a>, you can find my poster! 
+<img src="/images/screenshot_talk_ves.png" alt="a screenshot of my online talk" style="width: 128px; float: right;">
+<a href= "/images/poster_ves.pdf"> Here</a>, you can find my poster! 
