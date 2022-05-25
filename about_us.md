@@ -36,8 +36,13 @@ I am a  doctoral candidate at the linguistics department at Uni Graz. Also, I wo
 <img align="left" src="images/simon_Bild.jpg"
      alt="Simon Dampfhofer"
      style="float: left; margin-right: 20px;" width="300" />
-I am studying German and Philosophy at the Bachelor’s level as well as Physics at the Master’s level. Since 2018, I have been a student assistant at the Department of German Studies, where I am currently working on an experimental design to study the diachronous change of presuppositions.
+     
+  I am studying German and Philosophy at the Bachelor’s level as well as Physics at the Master’s level. Since 2018, I have been a student assistant at the Department of German Studies, where I am currently working on an experimental design to study the diachronous change of presuppositions.
 Further interests and topics I am working on include: formal linguistics, syntactical constraints on German evidentials, and philosophy of language.
+<br clear="left"/>
+
+## Kathrin Hirsch
+I am in the last year of my Bachelor’s degree in German Studies at the University of Graz. I am especially interested in 20th century literature, philosophy of language, and linguistics. In 2020/21 I received an Erasmus+ grant for an academic exchange at the University of Bonn. It allowed me to deepen my knowledge in literary studies and expand my knowledge on structuralism, theory of fiction, and aesthetics. It was a great way to complement my interest in text linguistics and discourse analysis. I am particularly interested in the interface between linguistics and literary studies, especially how semantic and pragmatic phenomena impact literary texts. Therefore, I am happy to participate in the project “The Erotetic and the Aesthetic” (jointly funded between the FWF in Austria and DFG in Germany), where we investigate suspense and erotetic structure of literary texts at a formal linguistic level. This has resulted in another project in cooperation with the city library of Graz, in which I am responsible for the communication between the city library and the research group as well as for the planning of the experimental design. Currently, under the supervision of Edgar Onea, I am writing my bachelor thesis, in which I investigate the different effects of implicit and explicit questions in the erotetic structure of a literary text from an experimental perspective
 
 <br clear="left"/>
 
