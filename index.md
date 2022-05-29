@@ -36,8 +36,8 @@ Five students of our group travelled together with Edgar Onea to Vilnius for a w
 <div id="VS1">
     <h4>Vesela presented at the <a href="http://chicagolinguisticsociety.org/">CLS 58 </a> on April 22nd</h4>
     <h3 style="margin-top:0pt">Epistemic Future in Reflective Questions</h3>
-    <p>Find her poster and additional information [here](/previous_talks/vesela_cls.md)!
-        <a href="mailto:vesela.simeonova@uni-graz.at">Write me an e-mail</a>
+    <p>Find the poster and additional information <a href = "https://semanticsgraz.github.io/Semantics-Graz/previous_talks/vesela_cls.html"> here </a> or 
+        <a href="mailto:vesela.simeonova@uni-graz.at">write me an e-mail</a>.
     </p>  
 </div>
 
@@ -45,7 +45,7 @@ Five students of our group travelled together with Edgar Onea to Vilnius for a w
     <h4>Maya presents work in progress. Blog entry on April 15th, 2022</h4>
     <h3 style="margin-top:0pt">Predicting the Probability of an Interpretation with the help of the Monte Carlo Simulation</h3>
     <p>
-    [Lea Fricke](https://homepage.uni-graz.at/de/lea.fricke/) and I recently conducted an experiment on the effect of tense on scalar implicatures (SIs in the following). In this study, subjects had to judge sentences like (1) and (2) with respect to contexts in which everybody of a relevant set of people performed an activity or just a subset of these people. The idea is that for past tense sentences like (1), a scalar implicature is very likely to arise and “some” will be interpreted as “some and not all”. This means, in a context in which the whole set of people performed the respective activity, the sentence will likely be judged false, but sentences, in which just a subset of people performed the activity, the sentence will be true. For future tense sentences like (2), the SI will not be present, “some” will mean “some and possibly all”, and for both kinds of context, the sentence will be judged true. 
+        <a href="https://homepage.uni-graz.at/de/lea.fricke/">Lea Fricke</a> and I recently conducted an experiment on the effect of tense on scalar implicatures (SIs in the following). In this study, subjects had to judge sentences like (1) and (2) with respect to contexts in which everybody of a relevant set of people performed an activity or just a subset of these people. The idea is that for past tense sentences like (1), a scalar implicature is very likely to arise and “some” will be interpreted as “some and not all”. This means, in a context in which the whole set of people performed the respective activity, the sentence will likely be judged false, but sentences, in which just a subset of people performed the activity, the sentence will be true. For future tense sentences like (2), the SI will not be present, “some” will mean “some and possibly all”, and for both kinds of context, the sentence will be judged true. 
       <img 
            src="images/example_sis.jpg" 
            alt="A linguistic example showing Scalar Implicatures" 
