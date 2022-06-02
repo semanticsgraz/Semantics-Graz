@@ -1,3 +1,4 @@
+##On the interpretation of German ’einige’: The effect of tense and cardinality
 Scalar terms like „some“ are known to be interpreted by default as “some and not all”. 
 This meaning strengthening called scalar implicature stands in opposition to the logical meaning of “some” which includes the stronger alternative “all”.
 Lea Fricke and I conducted an experiment that tested this phenomenon a lab setting which aimed to test people’s judgment on scalar implicatures under new conditions. 
