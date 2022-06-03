@@ -15,7 +15,7 @@ layout: default
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
 
 <div id="KH1">
-    <h4>Kathrin presents work in progress. Blog entry on March 18th, 2022. </h4>
+    <h4>Kathrin presents work in progress. Blog entry on May 30th, 2022. </h4>
     <h3 style="margin-top:0pt"> Investigating suspense in my bacchelor's thesis </h3>
 
     I am currently working on my B.A. thesis, which investigates from an experimental perspective whether the type of questions posed by a literary text changes its reception. The central assumption is that the structure of texts results from questions and their corresponding answers. These questions are usually not formulated explicitly but arise implicitly from the text. I hypothesize that the way a text is received depends on whether those erotetic questions are implicit or explicit. While explicit questions are more likely to provoke the reader's desire for an immediate answer, implicit questions are more likely to motivate the reader to engage with the narrative and to infer its inherent questions and the corresponding answers from the unfolding text.
