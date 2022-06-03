@@ -42,6 +42,10 @@ Further interests and topics I am working on include: formal linguistics, syntac
 <br clear="left"/>
 
 ## Kathrin Hirsch
+
+<img align="left" src="images/Vutz.jpg"
+     alt="Kathrin Hirsch"
+     style="float: left; margin-right: 20px;" width="240" />
 I am in the last year of my Bachelor’s degree in German Studies at the University of Graz. I am especially interested in 20th century literature, philosophy of language, and linguistics. In 2020/21 I received an Erasmus+ grant for an academic exchange at the University of Bonn. It allowed me to deepen my knowledge in literary studies and expand my knowledge on structuralism, theory of fiction, and aesthetics. It was a great way to complement my interest in text linguistics and discourse analysis. I am particularly interested in the interface between linguistics and literary studies, especially how semantic and pragmatic phenomena impact literary texts. Therefore, I am happy to participate in the project “The Erotetic and the Aesthetic” (jointly funded between the FWF in Austria and DFG in Germany), where we investigate suspense and erotetic structure of literary texts at a formal linguistic level. This has resulted in another project in cooperation with the city library of Graz, in which I am responsible for the communication between the city library and the research group as well as for the planning of the experimental design. Currently, under the supervision of Edgar Onea, I am writing my bachelor thesis, in which I investigate the different effects of implicit and explicit questions in the erotetic structure of a literary text from an experimental perspective
 
 <br clear="left"/>
