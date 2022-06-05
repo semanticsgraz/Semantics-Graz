@@ -4,7 +4,7 @@ layout: default
 
 <h1>News/Activities</h1>
 <div class="myDIV"><p><a href="#KH1">BLOG ENTRY: Monday, May 30 2022: Kathrin presents work in progress!</a></p></div>
-<div class="hide"><p>Investigating suspense in my bacchelor's thesis</p></div>
+<div class="hide"><p>Investigating the influence of explicit and implicit questions in literary texts</p></div>
 <div class="myDIV"><p><a href="#LF1">BLOG ENTRY: Monday, May 2nd 2022: Lea reports on our trip to Vilnius!</a></p></div>
 <div class="hide"><p>Arqus twinning workshop in Vilnius</p></div>
 <div class="myDIV"><p><a href="#VS1">On Friday, April 22, Vesela Simeonova presented at the Chicago Linguistic Society</a></p></div>
@@ -16,7 +16,7 @@ layout: default
 
 <div id="KH1">
     <h4>Kathrin presents work in progress. Blog entry on May 30th, 2022. </h4>
-    <h3 style="margin-top:0pt"> Investigating suspense in my bacchelor's thesis </h3>
+    <h3 style="margin-top:0pt"> Investigating the influence of explicit and implicit questions in literary texts </h3>
 
     I am currently working on my B.A. thesis, which investigates from an experimental perspective whether the type of questions posed by a literary text changes its reception. The central assumption is that the structure of texts results from questions and their corresponding answers. These questions are usually not formulated explicitly but arise implicitly from the text. I hypothesize that the way a text is received depends on whether those erotetic questions are implicit or explicit. While explicit questions are more likely to provoke the reader's desire for an immediate answer, implicit questions are more likely to motivate the reader to engage with the narrative and to infer its inherent questions and the corresponding answers from the unfolding text.
 The study will show whether literary texts raising implicit questions evoke a more intensive engagement with them than texts raising explicit questions. Moreover, my study has the potential to provide empirical justification for the erotetic question-answer model by showing to what extent the design of the erotetic structure influences the reception of literature. 
