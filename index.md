@@ -51,10 +51,10 @@ By arguing for the removing of separations, I’m not demanding that every theor
     
 Language is complicated. But if we managed to cover these complexities and unite them in a linguistic “theory of everything” (an unimaginably difficult task, no doubt), this would enable us to get answers to questions that currently seem far out of reach of linguistic theory.<br><br>
     
-Literature
-Heim, Irene and von Fintel, Kai (2021): Intensional Semantics. Spring 2021 Edition.
-Horn, Laurence Robert (1972): On the Semantic Properties of Logical Operators in English. Dissertation, University of California.
-Levine, Diane P. and Rowe, Bruce M. (2018): A Concise Introduction to Linguistics. London, Routledge. DOI: 10.4324/9781315227283.
+Literature<br>
+Heim, Irene and von Fintel, Kai (2021): Intensional Semantics. Spring 2021 Edition.<br>
+Horn, Laurence Robert (1972): On the Semantic Properties of Logical Operators in English. Dissertation, University of California.<br>
+Levine, Diane P. and Rowe, Bruce M. (2018): A Concise Introduction to Linguistics. London, Routledge. DOI: 10.4324/9781315227283.<br>
 </div>
 
 <div id="KH1">
