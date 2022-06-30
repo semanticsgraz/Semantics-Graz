@@ -1,6 +1,6 @@
 # About Us
 
-We are a group of young scientists interested in different fields of linguistics, mainly in semantics, pragmatics and syntax. We were given the amazing oportunity to explore our ideas in a professional environment and we are thereby able to contribute significantly to the scientific community. [Prof. Edgar Onea](https://homepage.uni-graz.at/en/edgar.onea-gaspar/), who leads our group, supervises us and provides support in our many interesting research projects. 
+We are a group of young scientists interested in different fields of linguistics, mainly in semantics, pragmatics and syntax. We were given the amazing oportunity to explore our ideas in a professional environment and we are thereby able to contribute significantly to the scientific community. [Edgar Onea](https://homepage.uni-graz.at/en/edgar.onea-gaspar/), who leads our group, supervises us and provides support in our many interesting research projects. 
 <p style="text-align:center;"><img src="images/groupfoto2.jpg" alt="group foto" width="500" /></p>
 
 
