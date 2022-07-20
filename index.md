@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>News/Activities</h1>
-<div class="myDIV"><p><a href="#EO1">DISCLAIMER Fall course: Edgar Onea introduces formal languages! </a></p></div>
+<div class="myDIV"><p><a href="#EO1">DON'T MISS! Fall course: Edgar Onea introduces formal languages</a></p></div>
 <div class="hide"><p>In the last week of September, you get the chance to broaden your knowlege in formal languages</p></div>
 <div class="myDIV"><p><a href="#SD1">BLOG ENTRY: Monday, June 13 2022: Simon presents ideas</a></p></div>
 <div class="hide"><p>Separations within Linguistics and Limitations of Linguistics</p></div>
