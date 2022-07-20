@@ -20,8 +20,8 @@ layout: default
 
 
 <div id="EO1">
-    <h4> Fall course: Edgar Onea introduces formal languages!</h4>
-
+    <h4> Don't Miss!</h4>
+    <h3 style="margin-top:0pt"> Fall course: Edgar Onea introduces formal languages!</h3>
 In this course, we will get to know the basics of syntactically and semantically analysing formal languages. We will start of with simple languages and make our way to defining different logical formalisms syntactically and semantically. This will include propositional logic, various forms of modal logic, predicate logic and dynamic predicate logic. Another goal of the course is defining the lambda calculus formaly precise and practicing its application. Depending on participants familiarity with the topics, we may even apply our knowledge on natural languages.  
 Find the link <a href="https://online.uni-graz.at/kfu_online/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=776817&pSpracheNr=1">here! </a>
 </div>
