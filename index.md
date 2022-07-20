@@ -3,6 +3,8 @@ layout: default
 ---
 
 <h1>News/Activities</h1>
+<div class="myDIV"><p><a href="#EO1">DISCLAIMER Fall course: Edgar Onea introduces formal languages! </a></p></div>
+<div class="hide"><p>In the last week of September, you get the chance to broaden your knowlege in formal languages</p></div>
 <div class="myDIV"><p><a href="#SD1">BLOG ENTRY: Monday, June 13 2022: Simon presents ideas</a></p></div>
 <div class="hide"><p>Separations within Linguistics and Limitations of Linguistics</p></div>
 <div class="myDIV"><p><a href="#KH1">BLOG ENTRY: Monday, May 30 2022: Kathrin presents work in progress!</a></p></div>
@@ -15,6 +17,14 @@ layout: default
 <div class="hide"><p>Predicting the Interpretation Probabilities with the help of the Monte Carlo Simulation</p></div>
 <div class="myDIV"><p><a href="#ML1">BLOG ENTRY: March 18th 2022: Melanie Loitzl presents work in progress</a></p></div>
 <div class="hide"><p>The role of gender in the usage of the definite article with proper names in German</p></div>
+
+
+<div id="EO1">
+    <h4> Fall course: Edgar Onea introduces formal languages!</h4>
+
+In this course, we will get to know the basics of syntactically and semantically analysing formal languages. We will start of with simple languages and make our way to defining different logical formalisms syntactically and semantically. This will include propositional logic, various forms of modal logic, predicate logic and dynamic predicate logic. Another goal of the course is defining the lambda calculus formaly precise and practicing its application. Depending on participants familiarity with the topics, we may even apply our knowledge on natural languages.  
+Find the link <a href="https://online.uni-graz.at/kfu_online/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=776817&pSpracheNr=1">here! </a>
+</div>
 
 <div id="SD1">
     <h4>Simon presents ideas. Blog entry on June 13th, 2022. </h4>
